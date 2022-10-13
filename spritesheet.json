@@ -1,0 +1,35 @@
+{
+	"frames": {
+		"ezgif.com-gif-maker.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 2400,
+				"h": 2400
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 2400,
+				"h": 2400
+			},
+			"sourceSize": {
+				"w": 2400,
+				"h": 2400
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 2402,
+			"h": 2402
+		},
+		"scale": "1"
+	}
+}
